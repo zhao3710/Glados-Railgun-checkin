@@ -8,7 +8,7 @@ on:
       - 'README.md'
       - 'imgs/**'
   schedule:
-    - cron: '30 16,18 * * *'
+    - cron: '30 15,17 * * *'
       timezone: 'Asia/Shanghai'
 
 jobs:
